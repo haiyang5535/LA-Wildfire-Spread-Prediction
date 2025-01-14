@@ -1,4 +1,4 @@
-# -LA-Wildfire-Spread-Prediction
+# LA-Wildfire-Spread-Prediction
 This project is aimed to predict wildfire spread in Los Angeles, California, in order to enhance fire management strategies and improve resource allocation for future effective wildfire control.
 
 Skills used in this project:<br/>
