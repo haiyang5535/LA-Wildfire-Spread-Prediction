@@ -1,7 +1,7 @@
 # -LA-Wildfire-Spread-Prediction
 This project is aimed to predict wildfire spread in Los Angeles, California, in order to enhance fire management strategies and improve resource allocation for future effective wildfire control.
 
-Skills used in this project:
+Skills used in this project:<br/>
 Data Collection and Cleaning: Aggregated and preprocessed wildfire, weather, and geospatial data from various sources.<br/>
 Exploratory Data Analysis (EDA): Conducted trend analysis and visualizations to understand key factors driving wildfire spread.<br/>
 Machine Learning Modeling: Built predictive models using regression and classification techniques to estimate wildfire spread and identify high-risk areas.<br/>
