@@ -3,7 +3,7 @@ This project is aimed to predict wildfire spread in Los Angeles, California, in 
 
 Skills used in this project:<br/>
 
-**Data Collection and Cleaning**: Preprocessed wildfire, weather, and geospatial data from various sources.<br/>
+**Data Collection and Cleaning**: Preprocessed wildfire, weather, and geospatial data from https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire/updates.<br/>
 **Exploratory Data Analysis (EDA)**: Looked at trends in the data and made visualizations to see what factors influence how wildfires spread.<br/>
 **Machine Learning Modeling**: Built models to predict how far wildfires might spread and which areas are most at risk.<br/>
 **Geospatial Analysis**: Used tools like GeoPandas and Folium to map wildfire locations and analyze spatial data.<br/>
