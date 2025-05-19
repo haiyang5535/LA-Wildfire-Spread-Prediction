@@ -1,0 +1,9 @@
+chromedriver-mac-arm64/
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+.idea/
